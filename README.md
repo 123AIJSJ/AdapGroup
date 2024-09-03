@@ -16,3 +16,6 @@ pip install -r requirements.txt
 ```
 ### Test
 According to the model trained by running train_hyper_nba.py, or download our trained model from the link https://pan.baidu.com/s/1iJSzLRtr6AgbiB_BXGYHvQ and the corresponding extract password is v7dt, you can obtain the prediction data by debuging test_nba.py.
+
+### Notice
+We upload the available code of ablation version about adaptive group aware, and the complete available code will be uploaded when the work is officially accepted.
